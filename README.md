@@ -15,7 +15,7 @@
 -----------
 
  <div>
-    <a href="https://gitlab.com/fpc7063">
+    <a href="https://gitlab.com/vinicius-carv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-carv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-carv&layout=compact&langs_count=7&theme=dark"/>
 </div>

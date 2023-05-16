@@ -3,7 +3,7 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://media0.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e471gfzv6v83kc8er0heo8yz3vhay9t0ti527vjsn86&rid=giphy.gif&ct=g)
 
 * Name :suspect: : Vinicius Carvalho
-* Email :love_letter: : valves8956@gmail.com
+* Email :love_letter: : vinicius-carv@icloud.com
 * Occupation :shipit: : Computer Science Student | Back-end Developer
 * Discord :alien: : Onoken#7301
 * Linkedin :rage1: : https://www.linkedin.com/in/vin%C3%ADcius-carvalho-31aba81a9

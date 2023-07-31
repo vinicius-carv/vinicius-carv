@@ -4,9 +4,9 @@
 
 * Name :suspect: : Vinicius Carvalho
 * Email :love_letter: : vinicius-carv@icloud.com
-* Occupation :shipit: : Computer Science Student | Back-end Developer
+* Occupation :shipit: : Computer Science Student | Fullstack Developer
 * Discord :alien: : Onoken#7301
-* Linkedin :rage1: : https://www.linkedin.com/in/vin%C3%ADcius-carvalho-31aba81a9
+* Linkedin :rage1: : https://www.linkedin.com/in/vinicius-carv/
 
 -----------
  ## About me 🤓

@@ -7,6 +7,7 @@
 * Occupation :shipit: : Computer Science Student | Fullstack Developer
 * Discord :alien: : Onoken#7301
 * Linkedin :rage1: : https://www.linkedin.com/in/vinicius-carv/
+* Meu site pessoal 😃 : https://vinicius-carv.infinityfreeapp.com
 
 -----------
  ## About me 🤓

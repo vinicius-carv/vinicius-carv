@@ -12,6 +12,6 @@ I build portals, APIs and mobile apps end to end, from data modeling and back en
 
 ## Projects
 
-- [doc-extract](https://github.com/vinicius-carv/doc-extract) — contract PDFs to JSON where every field cites a quote verified by code; scored on CUAD (span F1 0.64, local `qwen3.5:9b`). Java 21, Spring Boot, Ollama.
+- [doc-extract](https://github.com/vinicius-carv/doc-extract) — contract PDFs to JSON where every field cites a quote verified by code; scored on CUAD (span F1 0.69, local `qwen3.5:9b`). Java 21, Spring Boot, Ollama.
 
 <!-- filled as projects ship -->

@@ -14,5 +14,6 @@ I build portals, APIs and mobile apps end to end, from data modeling and back en
 
 - [doc-extract](https://github.com/vinicius-carv/doc-extract) — contract PDFs to JSON where every field cites a quote verified by code; scored on CUAD (span F1 0.69, local `qwen3.5:9b`). Java 21, Spring Boot, Ollama.
 - [liferay-claude-skills](https://github.com/vinicius-carv/liferay-claude-skills) — Claude Code plugin for Liferay workspaces: brings a cloned workspace up and confirms over Gogo that every module is Active, checks portal and OSGi config, and looks up Liferay source for the workspace's exact version. Node scripts with tests, CI on Windows and Linux.
+- [mcp-brasil](https://github.com/vinicius-carv/mcp-brasil) — MCP server for Brazilian public data: CNPJ and CEP lookup with provider fallback, IBGE municipalities, and search of the Diário Oficial da União, which no other Brazilian MCP server covers. TypeScript, keyless, cached and throttled, with offline and live tests.
 
 <!-- filled as projects ship -->
